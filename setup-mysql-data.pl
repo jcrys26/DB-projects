@@ -28,7 +28,7 @@ my @input_data = (
         title  => "Setting up edges table\n",
         file   => "YT-data/edges.csv",
         table  => "edges",
-        fields => { group1 => "INT",
+        fields => { node1 => "INT",
                     node2 => "INT"},
     },
     {
